@@ -1,0 +1,70 @@
+// basic structure of C Program
+// ------------------------------
+/* comment lines */
+
+// HEADER FILES
+// MACROS DEFINITION
+// FUNCTION PROTOTYPE
+// GLOBAL VARIABLE DECLRARTION
+// int main(){
+//     |
+//     |
+//     |
+//     LOCAL VAIABLE DECLARATION
+//     INPUT/OUTPUT STATEMENTS
+//     |
+//     |
+//     return 0;
+// }
+
+
+// build process
+
+// 1. create a new file with .c as extension 
+// 2. write your code 
+// 3. save it
+// 4. compile 
+//     compiler --> .c  to  .o(object file)
+//               high level  to  machine level
+//     linking  -->  .o to .exe 
+// 5. run the code .exe
+// 6. get the output on the console
+
+
+
+// Data Types 
+// ------------------
+
+// numbers----------- int | long int
+// decimals---------- float | double | long double
+// character--------- char 
+// string ----------- char 
+// true false ------- _Bool 
+
+-------------------------------------
+8bits  ==  1Byte
+1KB    ==  1024Bytes
+1MB    ==  1024Kilo Bytes
+1GB    ==  1024Mega Bytes
+1TB    ==  1024Giga Bytes 
+-------------------------------------
+
+--------------------------------------------------------------
+| Data Type   |    keyword    |  format specifier  |  size   |
+--------------------------------------------------------------
+|  numeric    |   int         |         %d         |  2Bytes |    
+|  numeric    |   long int    |         %ld        |  4Bytes |  
+|  real       |   float       |         %f         |  4Bytes |  
+|  real       |   double      |         %lf        |  8Bytes |  
+|  real       |   long double |         %Lf        |  10Bytes|   
+|  characters |   char        |         %c         |  1Byte  |   
+|  character  |   char[]      |         %s         |  1Byte  |   
+--------------------------------------------------------------
+
+------------------------------
+Escape Sequences
+-----------------------------
+\n ----> new line 
+\d ----> tab space
+\a ----> alarm sound
+\r ----> cursor returns to the top position
