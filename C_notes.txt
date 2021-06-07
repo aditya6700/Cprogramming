@@ -52,7 +52,8 @@
 --------------------------------------------------------------
 | Data Type   |    keyword    |  format specifier  |  size   |
 --------------------------------------------------------------
-|  numeric    |   int         |         %d         |  2Bytes |    
+|  numeric    |   short int   |         %d         |  2Bytes |
+|  numeric    |   int         |         %d         |  4Bytes |    
 |  numeric    |   long int    |         %ld        |  4Bytes |  
 |  real       |   float       |         %f         |  4Bytes |  
 |  real       |   double      |         %lf        |  8Bytes |  
@@ -68,3 +69,75 @@ Escape Sequences
 \d ----> tab space
 \a ----> alarm sound
 \r ----> cursor returns to the top position
+
+-----------------------------
+input and output
+----------------------------
+input --- sacnf()  to read values form user console
+output --- printf()  to print values to user console
+
+
+-------------------------------
+OPERATORS
+-------------------------------
+1. Arthematic Operators 
+    +
+    -
+    *
+    /
+    %
+2. Relational Operators
+    >    <
+    >=   <=
+    ==
+    !=
+3. Logical Operators
+    &&  Logical AND
+    ||  Logical OR 
+    !   Logical NOT
+
+            AND   output = x.y 
+            ------------------
+            x    y     output
+            ------------------
+            0    0      0
+            0    1      0
+            1    0      0
+            1    1      1
+
+            OR   output = x+y 
+            ------------------
+            x    y     output
+            ------------------
+            0    0      0
+            0    1      1
+            1    0      1
+            1    1      1
+
+            NOT   output = !input
+            ----------------------
+            input   output
+            ---------------------
+            0           1
+            1           0
+4. Assignment Operator
+    =  
+5. Ternary Operators
+    (condition) ? true : false
+
+6. 'sizeof' Operator
+7. Unary Operator
+    ++
+    -- 
+8. Bitwise Operators 
+    &   Bitwise AND
+    |   Bitwise  OR
+
+
+a=2   b=5;
+010    101 
+0 1 0
+1 0 1
+------
+0 0 0   --- 0  => 2 & 5
+

@@ -13,3 +13,18 @@
 3. format specifers
 4. operators
 
+## Day - 3 [07/06/2021]
+1. conditional statements
+   - if
+   - if-else
+   - nested conditions
+2. Iterative statements(loops)
+   - wihle
+   - do while
+   - for
+   - nested loops
+3. break
+4. continue
+
+## Day - 4 [08/06/2021]
+1. 
