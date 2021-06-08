@@ -18,13 +18,12 @@
    - if
    - if-else
    - nested conditions
-2. Iterative statements(loops)
-   - wihle
+
+## Day - 4 [08/06/2021]
+1. Iterative statements(loops)
+   - while
    - do while
    - for
    - nested loops
-3. break
-4. continue
-
-## Day - 4 [08/06/2021]
-1. 
+2. break
+3. continue

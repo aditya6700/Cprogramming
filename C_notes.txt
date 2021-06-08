@@ -141,3 +141,61 @@ a=2   b=5;
 ------
 0 0 0   --- 0  => 2 & 5
 
+
+---------------------------------------
+CONDITIONAL STATEMENTS
+---------------------------------------
+
+(a) if ( condition )
+        do this ;
+
+(b) if ( condition ){
+        do this ;
+        and this ;
+    }
+
+(c) if ( condition )
+        do this ;
+    else
+        do this ;
+
+(d) if ( condition ){
+        do this ;
+        and this ;
+    }
+    else{
+        do this ;
+        and this ;
+    }
+
+(e) if ( condition ){
+        if ( condition )
+            do this ;
+        else{
+            do this ;
+            and this ;
+        }
+    }
+    else
+        do this ;
+
+(f) if ( condition )
+        do this ;
+    else{
+        if ( condition )
+            do this ;
+        else{
+            do this ;
+            and this ;
+        }
+    }
+
+(g) if ( condition )
+        do this ;
+    else if ( condition )
+            do this ;
+        else{
+            do this ;
+            and this ;
+        }
+    }
