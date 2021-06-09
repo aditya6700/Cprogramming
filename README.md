@@ -27,3 +27,11 @@
    - nested loops
 2. break
 3. continue
+
+## Day - 5 [09/06/2021]
+1. The ODD loop
+2. Swtich case
+3. switch vs else-if ladder
+4. goto
+5. Ternary Operator
+   
