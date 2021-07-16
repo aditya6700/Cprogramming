@@ -72,3 +72,6 @@
 8. Finding type of character from keyboard
 9. Boxer's weight classification
 10. Hardness of steel
+
+## Day - 10 [16/07/2021]
+1. RECAP
