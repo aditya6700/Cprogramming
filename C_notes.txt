@@ -228,3 +228,27 @@ Recursion
 -----------------------------
 A function is called a 'recursive' if a statement within the body 
 of the funciton calls the same funciton. Also known as 'circular function'
+
+Arrays
+-------------------------------
+An array is datatype which can store a collection of data 
+of similar datatype
+OR
+An array is used to store similar datatypes
+
+/* diffrent ways to initialise an array */
+    1. data_type variable[size];
+    2. data_type variable[size] = {n, n, n, n, n};
+    2. data_type variable[] = {n, n, n, n, n, n,......};
+
+
+Array elements in memory
+---------------------------
+
+int arr[8]; ---> total size is 32bytes
+1-integer takes 4Bytes  
+total =  8 * 4 = 32bytes
+
+2D array == 1D array stacked upon each other
+
+

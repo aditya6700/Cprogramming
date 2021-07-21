@@ -67,7 +67,7 @@
 3. classifying the triangle
 4. equal sides of traingle
 5. RGB to CMYK conversion
-6. zodiac signs
+6. zodiac signs 
 7. classification using BMI
 8. Finding type of character from keyboard
 9. Boxer's weight classification
@@ -80,3 +80,13 @@
 1. Type Casting
 2. Recursion
 3. Examples on Recursion
+
+## Day - 12 [21/07/2021]
+1. Arrays
+   - init
+   - example
+   - types of initialisation
+   - array elements in memory
+   - bounds checking
+2. 2D Array and 3D array
+3. problems on Arrays
