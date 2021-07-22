@@ -252,3 +252,22 @@ total =  8 * 4 = 32bytes
 2D array == 1D array stacked upon each other
 
 
+Storage classes
+-------------------------
+TO fully define a varibale one need's to mention not only it's datatype
+but also it's Storage clasess.
+
+general syntax: storage_cls data_type variable;
+
+types:
+1. automatic storage class
+2. register storage class
+3. static storage class
+4. external storage class
+
+
+use of storage classes:---------
+1. where the varibale must be stored.
+2. default value
+3. scope of variable
+4. life time of the variable 

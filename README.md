@@ -90,3 +90,10 @@
    - bounds checking
 2. 2D Array and 3D array
 3. problems on Arrays
+
+## Day - 13 [22/07/2021]
+1. Storage classes
+   1. auto
+   2. register
+   3. static
+   4. ext
