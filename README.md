@@ -97,3 +97,18 @@
    2. register
    3. static
    4. ext
+
+## Day - 14  [29/07/2021]
+1. sorting techniques
+   - linear search
+2. Pointers
+   - call by value and call by reference
+   - introduction to pointers
+   - pointer notation
+   - function calls using pointers
+
+## Day - 15  [02/08/2021]
+1. Pointer with Arrays
+2. Strings
+3. binary search
+4. bubble sort

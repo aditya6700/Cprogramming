@@ -271,3 +271,12 @@ use of storage classes:---------
 2. default value
 3. scope of variable
 4. life time of the variable 
+
+
+int fact(int n){
+    //blah blah code
+}
+
+int n = 5;  // 65368
+
+factorial = fact(&n);
