@@ -112,11 +112,12 @@
    
 ## Day - 16  [04/08/2021]
 1. Strings
-2. Structures
-   - struct
+2. typedef
+3. Structures
+   - declaring struct
    - accessing struct
    - array of struct
    - nested struct
    - functions with struct
    - pointers with struct
-3. Unions 
+4. Unions 
