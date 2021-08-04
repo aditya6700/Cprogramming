@@ -109,6 +109,14 @@
 
 ## Day - 15  [02/08/2021]
 1. Pointer with Arrays
-2. Strings
-3. binary search
-4. bubble sort
+   
+## Day - 16  [04/08/2021]
+1. Strings
+2. Structures
+   - struct
+   - accessing struct
+   - array of struct
+   - nested struct
+   - functions with struct
+   - pointers with struct
+3. Unions 
